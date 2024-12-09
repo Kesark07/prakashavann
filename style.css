@@ -6,7 +6,7 @@
 .banner{
     width:100%;
     height:100vh;
-    background image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archdaily.com%2F964460%2F6-urban-design-projects-with-nature-based-solutions&psig=AOvVaw2ORQt8fy-rS-556ABrzT8z&ust=1733850657839000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj-vJ2Xm4oDFQAAAAAdAAAAABAZ);
+    background image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(C:\Users\kesar\OneDrive\Documents\college\visual studio\bg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -16,7 +16,7 @@
     padding: 35px 0;
     display:flex;
     align-items: center;
-    justify-content: space: between;
+    justify-content: space-between;
 }
 .navbar ul li{
     list-style:none;
