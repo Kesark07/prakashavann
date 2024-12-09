@@ -6,7 +6,7 @@
 .banner{
     width:100%;
     height:100vh;
-    background image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fdusp.mit.edu%2Fcity-design-and-development&psig=AOvVaw0FPHHQN7xq2ZXD816jNzZq&ust=1733841529031000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDWvJT1mooDFQAAAAAdAAAAABAK);
+    background image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archdaily.com%2F964460%2F6-urban-design-projects-with-nature-based-solutions&psig=AOvVaw2ORQt8fy-rS-556ABrzT8z&ust=1733850657839000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj-vJ2Xm4oDFQAAAAAdAAAAABAZ);
     background-size: cover;
     background-position: center;
 }
@@ -55,8 +55,8 @@
     margin-top: 80px;
 }
 .content h2{
-    font-size: 80px;
-    margin-top: 90px;
+    font-size: 60px;
+    margin-top: 70px;
 }
 .content p1{
     margin: 30px auto;
